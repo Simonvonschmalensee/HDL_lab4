@@ -1,0 +1,129 @@
+C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/data_path.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/data_path.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package package_MicroAssemblyCode
+-- Compiling entity dataPath
+-- Compiling architecture behavioral of dataPath
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/RegFile.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/RegFile.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity RegFile
+-- Compiling architecture behavioral of RegFile
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/video_composer.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/video_composer.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity video_composer
+-- Compiling architecture structure of video_composer
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/video_composer_fsmd.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/video_composer_fsmd.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package package_MicroAssemblyCode
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity VideoComposer_FSMD
+-- Compiling architecture behaviour of videoComposer_FSMD
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/package_MicroAssemblyCode.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/package_MicroAssemblyCode.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package package_MicroAssemblyCode
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/test.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/test.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package ppm_file_handler
+-- Compiling entity test
+-- Compiling architecture tb_VideoComposer of test
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/ppm_file_handler.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/ppm_file_handler.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling package ppm_file_handler
+-- Compiling package body ppm_file_handler
+-- Loading package ppm_file_handler
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/Selector.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/Selector.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Selector
+-- Compiling architecture behavioral of Selector
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/single_port_rom.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/single_port_rom.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package ppm_file_handler
+-- Compiling entity single_port_rom
+-- Compiling architecture read_ppm of single_port_rom
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/Shifter.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/Shifter.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity Shifter
+-- Compiling architecture behavioral of Shifter
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/single_port_ram.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/single_port_ram.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package ppm_file_handler
+-- Compiling entity single_port_ram
+-- Compiling architecture write_ppm of single_port_ram
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/tb_composer.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/tb_composer.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package ppm_file_handler
+-- Compiling entity test1
+-- Compiling architecture tb_VideoComposer of test1
+
+} {} {}} C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/ALU.vhd {1 {vcom -work work -93 -explicit C:/Users/Simon/Desktop/skolarbete/IL2217_digitalDesignWithHDL/lab_4/ALU.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_SIGNED
+-- Compiling entity ALU
+-- Compiling architecture behavioral of ALU
+
+} {} {}}
